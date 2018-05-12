@@ -35,6 +35,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Antero_de_Quental
     - http://en.wikipedia.org/wiki/Antero_de_Quental
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20874#Raios-de-extincta-luz--13-poesias-ineditas--1859-1863-
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2007-03-22'
 gutenberg_type: Text
