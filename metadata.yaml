@@ -1,0 +1,57 @@
+_repo: Raios-de-extincta-luz--13-poesias-ineditas--1859-1863-_20874
+_version: 0.1.0
+alternative_title: "Raios de extinta luz\r\npoesias inéditas (1859-1863)"
+contributor:
+  contributor:
+    agent_name: Braga, Teófilo
+    aliases:
+    - Fernandes Braga, Joaquim Theophilo
+    - Braga, Joaquim Theophilo Fernandes
+    - Braga, Theophilo
+    - Braga, Joaquim Teófilo Fernandes
+    birthdate: 1843
+    deathdate: 1924
+    gutenberg_agent_id: '3929'
+    url: http://www.gutenberg.org/2009/agents/3929
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Teófilo_Braga
+    - http://pt.wikipedia.org/wiki/Teófilo_Braga
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quental, Antero de
+    aliases:
+    - Quental, Anthero de
+    - De Quental, Antero
+    - Tarquinio de Quental, Anthero
+    - Tarquino do Quental, Anthero
+    birthdate: 1842
+    deathdate: 1891
+    gutenberg_agent_id: '34296'
+    url: http://www.gutenberg.org/2009/agents/34296
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Antero_de_Quental
+    - http://en.wikipedia.org/wiki/Antero_de_Quental
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20874'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Rita Farinha and the Online Distributed\r\nProofreading\
+  \ Team at http://www.pgdp.net (This file was\r\nproduced from images generously\
+  \ made available by National\r\nLibrary of Portugal (Biblioteca Nacional de Portugal).)"
+publication_note: "Lisboa:\r\nM. Gomes, Livreiro-Editor\r\n70, Rua Garrett, 72\r\n\
+  1892"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: "Raios de extincta luz\r\npoesias ineditas (1859-1863)"
+url: http://www.gutenberg.org/ebooks/20874
